@@ -1,18 +1,20 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
+title:               "How Beautiful The World Is"
+tagline:             'Anglo-American Travelers in Europe, 1880-1910'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+baseurl:             '/baldwin'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
-
+  name:              Meredith Levin
+  url:               https://twitter.com/mjl361
+  email:             mjl2209@columbia.edu
+  
+  
+# DO NOT TOUCH ANYTHING BELOW THIS LINE
 # Permalinks
 
 permalink: pretty
