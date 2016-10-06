@@ -6,7 +6,6 @@ editor: Alex Gil
 rights: Public Domain
 source: Project Guttenberg
 publication-date: 2016
-
 ---
 
 
