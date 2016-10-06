@@ -1,18 +1,22 @@
 ---
 layout: poem
-title: Dreams
-author: Langston Hughes
-source: Project Guttenberg
+title: "This is just to say"
+author: William Carlos Williams
+source: The Web
 ---
 
-- Hold fast to dreams
-- For if dreams die
-- Life is a broken-winged bird
-- That cannot fly.
-- Hold fast to dreams
-- For when dreams go
-- Life is a barren field
-- Frozen with snow.
+- I have eaten
+- the plums
+- that were in
+- the icebox
 
-<p class="citation">{{ page.author }}</p>
+- and which
+- you were probably
+- saving
+- for breakfast
+
+- Forgive me
+- they were delicious
+- so sweet
+- and so cold
 
