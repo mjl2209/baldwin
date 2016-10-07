@@ -1,21 +1,22 @@
 ---
 layout: narrative
-title: "Letter"
+title: "Letter 01 from Adolfo Apolloni to Dr. William Wilberforce Baldwin"
+date_set: no date
 author: Adolfo Apolloni
 recipient: "Dr. William Wilberforce Baldwin"
-editor: Meredith Levin
-date_set: "no date"
-rights: 
-source: 
-publication-date: 
+location: Florence, Italy
+source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
 ---
 
-## Introductory Note
+## Introductory and Biographical Notes
 
 Apolloni, Adolfo, 1855-1923- 2 autograph letters, signed, Florence to Dr. Baldwin. Willing to show his studio to Baldwin’s friends- asking about marble or terra cotta replica [MJL biographical note- famous Italian artist and sculptor; lived in America for a time and married an American woman; one of his sculptures, the Valentine angel, is at Green-Wood Cemetery!]
 
-## Transcription
+##Physical Description of the Letter
+
 blue envelope- Doctor Baldwin, 25 Via Gregoriana / back Appoloni, Studio, 53 C Via Margutta
+
+## Transcription
 
 Dear Doctor,
 

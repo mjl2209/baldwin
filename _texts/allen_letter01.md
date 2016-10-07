@@ -1,22 +1,25 @@
 ---
 layout: narrative
-title: "Letter"
+title: "Letter 01 from James Lane Allen to Dr. William Wilberforce Baldwin"
 date: 25 November 1905
 author: James Lane Allen
 recipient: "Dr. William Wilberforce Baldwin"
-source: Poetry Foundation
+location: Naples, Italy
+source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
 ---
 
-## Introductory Notes
+## Introductory and Biographical Notes
 
 Allen, James Lane, 1849-1925- Autograph letter, signed, dated Naples, 25 November 1905, to Dr. Baldwin. *describes travels in Italy, especially Castel Gandolfo. [MJL biographical note: American novelist who described the culture and dialects of Kentucky; possibly homosexual?]
 
-***
+## Physical Description of the Letter
 
-## Transcription
 Envelope: Dr. W.W. Baldwin, 25 Via Gregoriana, Rome.
 
 Letter on Grand Hotel Hauser & Doepfner Naples stationery
+
+## Transcription
+
 
 November 25, 1905
 
