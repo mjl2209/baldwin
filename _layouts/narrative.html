@@ -4,6 +4,11 @@ layout: default
 
 <div class="narrative">
   <h1 class="post-title">{{ page.title }}</h1>
-  <p class="citation"> by {{ page.author }}</p>
+  <p>
+  	<span class="citation"> by {{ page.author }}</span><br>
+	<span class="location">Location: <em>{{ page.location }}</em></span><br>
+  	<span class="date">Date: <em>{{ page.date | date: "%d %B %Y" }}</em></span>
+  </p>
+
   {{ content }}
 </div>

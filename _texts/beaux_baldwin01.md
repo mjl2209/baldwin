@@ -1,11 +1,12 @@
 ---
 layout: narrative
-title: "Letter 01 from Cecilia Beaux to Dr. William Wilberforce Baldwin"
+title: "Cecilia Beaux to Dr. William Wilberforce Baldwin, 7 June"
 date: 7 June 
 author: Cecilia Beaux
 recipient: "Dr. William Wilberforce Baldwin"
 location: Florence, Italy
 source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
+order: 12
 ---
 
 ## Introductory and Biographical Notes

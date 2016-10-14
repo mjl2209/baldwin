@@ -1,11 +1,12 @@
 ---
 layout: narrative
-title: "Letter 04 from William Waldorf Astor to Dr. William Wilberforce Baldwin"
+title: "William Waldorf Astor to Dr. William Wilberforce Baldwin, 20 October 1883"
 date: 20 October 1883
 author: William Waldorf Astor
 recipient: "Dr. William Wilberforce Baldwin"
 location: Cadenabbia, Italy
 source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
+order: 9
 ---
 
 ## Introductory and Biographical Notes

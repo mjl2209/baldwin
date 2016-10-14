@@ -1,11 +1,12 @@
 ---
 layout: narrative
-title: "Letter 01 from Henry Bentinck to Dr. William Wilberforce Baldwin"
+title: "Henry Bentinck to Dr. William Wilberforce Baldwin, 5 May"
 date: 5 May
 author: Henry Bentinck
 recipient: "Dr. William Wilberforce Baldwin"
 location: London, England
 source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
+order: 13
 ---
 
 ## Introductory and Biographical Notes

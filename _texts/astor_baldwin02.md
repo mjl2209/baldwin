@@ -1,11 +1,12 @@
 ---
 layout: narrative
-title: "Letter 02 from William Waldorf Astor to Dr. William Wilberforce Baldwin"
+title: "William Waldorf Astor to Dr. William Wilberforce Baldwin, 9 May 1883"
 date: 9 May 1883
 author: William Waldorf Astor
 recipient: "Dr. William Wilberforce Baldwin"
 location: Rome, Italy
 source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
+order: 7
 ---
 
 ## Introductory and Biographical Notes

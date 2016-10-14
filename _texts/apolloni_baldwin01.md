@@ -1,11 +1,12 @@
 ---
 layout: narrative
-title: "Letter 01 from Adolfo Apolloni to Dr. William Wilberforce Baldwin"
+title: "Adolfo Apolloni to Dr. William Wilberforce Baldwin, no date"
 date_set: no date
 author: Adolfo Apolloni
 recipient: "Dr. William Wilberforce Baldwin"
 location: Florence, Italy
 source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
+order: 2
 ---
 
 ## Introductory and Biographical Notes

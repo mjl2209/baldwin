@@ -1,11 +1,12 @@
 ---
 layout: narrative
-title: "Letter 01 from George Arbuthnot to Dr. William Wilberforce Baldwin"
+title: "George Arbuthnot to Dr. William Wilberforce Baldwin, 15 August 1883"
 date: 15 August 1883
 author: George Arbuthnot
 recipient: "Dr. William Wilberforce Baldwin"
 location: Stratford-on-Avon, England
 source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
+order: 4
 ---
 
 ## Introductory and Biographical Notes

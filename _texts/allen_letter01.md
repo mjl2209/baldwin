@@ -1,11 +1,12 @@
 ---
 layout: narrative
-title: "Letter 01 from James Lane Allen to Dr. William Wilberforce Baldwin"
+title: "James Lane Allen to Dr. William Wilberforce Baldwin, 25 November 1905"
 date: 25 November 1905
 author: James Lane Allen
 recipient: "Dr. William Wilberforce Baldwin"
 location: Naples, Italy
 source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
+order: 1
 ---
 
 ## Introductory and Biographical Notes

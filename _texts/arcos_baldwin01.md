@@ -1,11 +1,12 @@
 ---
 layout: narrative
-title: "Letter 01 from Virginia Woodbury Lowery de Arcos to Dr. William Wilberforce Baldwin"
+title: "Virginia Woodbury Lowery de Arcos to Dr. William Wilberforce Baldwin, 21 August 1907"
 date: 21 August 1907
 author: Virginia Woodbury Lowery de Arcos
 recipient: "Dr. William Wilberforce Baldwin"
 location: San Sebastian, Spain
 source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
+order: 5
 ---
 
 ## Introductory and Biographical Notes

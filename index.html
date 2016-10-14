@@ -13,7 +13,8 @@ title: "Ed."
 <div class="toc">
   <h2>Sample texts</h2>
   <ul class="post">
-  {% for item in site.texts do %}
+  {% assign items = site.texts | sort: 'order' %}
+  {% for item in items do %}
   
     <li class="post-title">
       <a href="{{ site.baseurl }}{{ item.url }}">

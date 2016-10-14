@@ -1,11 +1,12 @@
 ---
 layout: narrative
-title: "Letter 01 from Thomas Ball to Dr. William Wilberforce Baldwin"
+title: "Thomas Ball to Dr. William Wilberforce Baldwin, 29 December 1897"
 date: 29 December 1897
 author: Thomas Ball
 recipient: "Dr. William Wilberforce Baldwin"
 location: Montclair, New Jersey, United States of America
 source:  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts, MA 3564
+order: 11
 ---
 
 ## Introductory and Biographical Notes
