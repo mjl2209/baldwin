@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "Thomas Ball to Dr. William Wilberforce Baldwin, 29 December 1897"
-date: 29 December 1897
+stamp: 29 December 1897
 author: Thomas Ball
 recipient: "Dr. William Wilberforce Baldwin"
 location: Montclair, New Jersey, United States of America

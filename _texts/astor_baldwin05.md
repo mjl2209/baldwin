@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "William Waldorf Astor to Dr. William Wilberforce Baldwin, 31 October 1883"
-date: 31 October 1883
+stamp: 31 October 1883
 author: William Waldorf Astor
 recipient: "Dr. William Wilberforce Baldwin"
 location: Siena, Italy

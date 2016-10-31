@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "Virginia Woodbury Lowery de Arcos to Dr. William Wilberforce Baldwin, 21 August 1907"
-date: 21 August 1907
+stamp: 21 August 1907
 author: Virginia Woodbury Lowery de Arcos
 recipient: "Dr. William Wilberforce Baldwin"
 location: San Sebastian, Spain

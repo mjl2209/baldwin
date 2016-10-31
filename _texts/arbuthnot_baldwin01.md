@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "George Arbuthnot to Dr. William Wilberforce Baldwin, 15 August 1883"
-date: 15 August 1883
+stamp: 15 August 1883
 author: George Arbuthnot
 recipient: "Dr. William Wilberforce Baldwin"
 location: Stratford-on-Avon, England

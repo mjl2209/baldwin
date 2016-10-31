@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "Henry Bentinck to Dr. William Wilberforce Baldwin, 5 May"
-date: 5 May
+stamp: 5 May
 author: Henry Bentinck
 recipient: "Dr. William Wilberforce Baldwin"
 location: London, England

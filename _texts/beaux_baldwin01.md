@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "Cecilia Beaux to Dr. William Wilberforce Baldwin, 7 June"
-date: 7 June 
+stamp: "7 June"
 author: Cecilia Beaux
 recipient: "Dr. William Wilberforce Baldwin"
 location: Florence, Italy

@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "William Waldorf Astor to Dr. William Wilberforce Baldwin, 20 October 1883"
-date: 20 October 1883
+stamp: 20 October 1883
 author: William Waldorf Astor
 recipient: "Dr. William Wilberforce Baldwin"
 location: Cadenabbia, Italy

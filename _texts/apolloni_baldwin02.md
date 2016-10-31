@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "Adolfo Apolloni to Dr. William Wilberforce Baldwin, no date"
-date_set: no date
+stamp: "no date"
 author: Adolfo Apolloni
 recipient: "Dr. William Wilberforce Baldwin"
 location: Florence, Italy
@@ -13,7 +13,7 @@ order: 3
 
 Apolloni, Adolfo, 1855-1923- 2 autograph letters, signed, Florence to Dr. Baldwin. Willing to show his studio to Baldwin’s friends- asking about marble or terra cotta replica [MJL biographical note- famous Italian artist and sculptor; lived in America for a time and married an American woman; one of his sculptures, the Valentine angel, is at Green-Wood Cemetery!]
 
-##Transcription
+## Transcription
 
 Dear Doctor
 

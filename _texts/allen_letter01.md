@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "James Lane Allen to Dr. William Wilberforce Baldwin, 25 November 1905"
-date: 25 November 1905
+stamp: 25 November 1905
 author: James Lane Allen
 recipient: "Dr. William Wilberforce Baldwin"
 location: Naples, Italy
