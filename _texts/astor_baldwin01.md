@@ -25,4 +25,6 @@ Mrs. Astor desires me to write & ask you for “the spray & prescription”: she
 
 My Father used to tell me, as a boy, that “short reckonings make long friends.” My cheque is at your disposal whenever you please.
 
-Faithfully yours,  W.W. Astor
+Faithfully yours,  
+
+W.W. Astor
